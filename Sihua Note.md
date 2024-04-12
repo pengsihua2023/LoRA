@@ -3,4 +3,4 @@
 
 [2.浅谈LoRA](https://zhuanlan.zhihu.com/p/644360231)  
 
-[3. 
+[3. LoRA explained (and a bit about precision and quantization)](https://www.youtube.com/watch?v=t509sv5MT0w)  
