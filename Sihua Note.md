@@ -4,3 +4,7 @@
 [2.浅谈LoRA](https://zhuanlan.zhihu.com/p/644360231)  
 
 [3. LoRA explained (and a bit about precision and quantization)](https://www.youtube.com/watch?v=t509sv5MT0w)  
+
+[4. 三分钟学会大模型PEFT的LORA算法 lora_rank， lora_alpha](https://www.bilibili.com/video/BV1wq421w7H8/?spm_id_from=333.337.search-card.all.click)  
+
+[5. 
