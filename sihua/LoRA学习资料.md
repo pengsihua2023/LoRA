@@ -3,3 +3,5 @@
 ### [LoRA 02 算法原理深入解析 下集](https://www.youtube.com/watch?v=klmUoRCTpto)  
 ### [台大資訊 深度學習之應用 | ADL TA Recitation: LLM LoRA Training 大型語言模型太大怎麼調整呢?](https://www.youtube.com/watch?v=eGQMzbhokg0)  
 ### [LORA基础及SDXL-lora进阶模型训练教程-1](https://www.bilibili.com/cheese/play/ss11227?query_from=0&search_id=16684329695114148884&search_query=LoRA&csource=common_hpsearch_null_null&spm_id_from=333.337.search-card.all.click)
+### [LORA基础及SDXL-lora进阶模型训练教程-2](https://www.bilibili.com/cheese/play/ep416848?query_from=0&search_id=16684329695114148884&search_query=LoRA&csource=common_hpsearch_null_null&spm_id_from=333.337.search-card.all.click)
+### [LORA基础及SDXL-lora进阶模型训练教程-3](https://www.bilibili.com/cheese/play/ep416849?query_from=0&search_id=16684329695114148884&search_query=LoRA&csource=common_hpsearch_null_null&spm_id_from=333.337.search-card.all.click)
